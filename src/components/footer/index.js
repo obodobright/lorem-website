@@ -13,7 +13,7 @@ export const Footer = () => {
           <section className=" mx-auto md:flex items-center justify-between">
             <div>
               <Link href="/">
-                <h3 className="text-4xl font-bold font-[cursive] text-[white]">Lorem Psum</h3>
+                <h3 className="text-4xl font-bold font-[arial] text-[white]">Lorem Psum</h3>
               </Link>
             </div>
             <div className="flex mt-3 items-center justify-start gap-4">

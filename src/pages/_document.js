@@ -17,7 +17,7 @@ export default function Document() {
         <meta name="robots" content="index, follow" />
         <meta
           name="theme-color"
-          content="#00008B
+          content="#4A90E2
 "
         />
         <meta name="title" content="Lorem | Nurturing Leaders for Tomorrow" />

@@ -43,7 +43,7 @@ export const Header = () => {
       <header className="w-full max-w-[1920px]  z-50  fixed top-0 bg-[#4A90E2]    backdrop-blur-lg h-20  px-4  md:px-10  lg:px-16   right-1/2 left-1/2 translate-x-[-50%] ">
         <nav className=" h-full flex  items-center justify-between">
           <Link href="/">
-            <h3 className="text-2xl font-bold font-[cursive] text-[white]">Lorem Ipsum</h3>
+            <h3 className="text-2xl font-bold font-[arial] text-[white]">Lorem Ipsum</h3>
           </Link>
           <ul className="hidden md:flex  items-center justify-center gap-8">
             {navData.map((nav, navIndex) => {
